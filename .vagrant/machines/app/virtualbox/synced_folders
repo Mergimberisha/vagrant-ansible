@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"/Users/mergim/code/dev-ops-57/mutable-infrastructure/vagrant-ansible/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mergim/code/dev-ops-57/mutable-infrastructure/vagrant-ansible","disabled":false,"__vagrantfile":true}}}
