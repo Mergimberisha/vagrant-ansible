@@ -1,7 +1,7 @@
 # Ansible nodejs
 
 Running nodejs useing Ansible.
-test 50
+test 25
 
 ## Prerequisite
 
